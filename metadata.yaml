@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/495
     wikipedia: http://en.wikipedia.org/wiki/Mary_Eleanor_Wilkins_Freeman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18011#The-Portion-of-Labor
 gutenberg_issued: '2006-03-18'
 gutenberg_type: Text
 identifiers:
